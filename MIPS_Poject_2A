@@ -1,0 +1,378 @@
+# Tyler Morris - 07/01/19
+# Project_2A.asm-- A program that determine the count of letters
+# terminated string
+# Registers used:
+
+.data
+str: .asciiz "coming in winners of three in a row, including back-to-back triumphs on the road, the knights returned to orlando hungry to finish out the regular season home schedule on a high note."
+strns: .asciiz "\n"
+strk: .asciiz "K: ----------- "
+strn: .asciiz "N: ----------- "
+stri: .asciiz "I: ----------- "
+strg: .asciiz "G: ----------- "
+strh: .asciiz "H: ----------- "
+strt: .asciiz "T: ----------- "
+strs: .asciiz "S: ----------- "
+strhash: .asciiz "#"
+strkc: .asciiz "K:"
+strnc: .asciiz "N:"
+stric: .asciiz "I:"
+strgc: .asciiz "G:"
+strhc: .asciiz "H:"
+strtc: .asciiz "T:"
+strsc: .asciiz "S:"
+
+.text
+# Load address of string into a0
+la $a0, str
+strlen:
+li $t0, 0 # initialize the count of K to zero
+li $t1, 0 # Initialize the count of N to zero
+li $t2, 0 # Initialize the count of I to zero
+li $t3, 0 # Initialize the count of G to zero
+li $t4, 0 # Initialize the count of H to zero
+li $t5, 0 # Initialize the count of T to zero
+li $t6, 0 # Initialize the count of S to zero
+
+
+loop:
+lb $t7, 0($a0) # load the next character into t1
+beqz $t7, exit # check for the null character
+
+	# Beginning of "K" loop
+	Kloop:
+	bne $t7, 'K', Kexit
+	addi $t0, $t0, 1
+	Kexit:
+	
+	# Beginning of "k" loop
+	kloop:
+	bne $t7, 'k', kexit
+	addi $t0, $t0, 1
+	kexit:
+	
+	# Beginning of "N" loop
+	Nloop:
+	bne $t7, 'N', Nexit
+	addi $t1, $t1, 1
+	Nexit:
+	
+	# Beginning of "n" loop
+	nloop:
+	bne $t7, 'n', nexit
+	addi $t1, $t1, 1
+	nexit:
+	
+	# Beginning of "I" loop
+	Iloop:
+	bne $t7, 'I', Iexit
+	addi $t2, $t2, 1
+	Iexit:
+	
+	# Beginning of "i" loop
+	iloop:
+	bne $t7, 'i', iexit
+	addi $t2, $t2, 1
+	iexit:
+	
+	# Beginning of "G" loop
+	Gloop:
+	bne $t7, 'G', Gexit
+	addi $t3, $t3, 1
+	Gexit:
+	
+	# Beginning of "g" loop
+	gloop:
+	bne $t7, 'g', gexit
+	addi $t3, $t3, 1
+	gexit:
+	# Beginning of "H" loop
+	Hloop:
+	bne $t7, 'H', Hexit
+	addi $t4, $t4, 1
+	Hexit:
+	
+	# Beginning of "h" loop
+	hloop:
+	bne $t7, 'h', hexit
+	addi $t4, $t4, 1
+	hexit:
+	
+	# Beginning of "T" loop
+	Tloop:
+	bne $t7, 'T', Texit
+	addi $t5, $t5, 1
+	Texit:
+	
+	# Beginning of "t" loop
+	tloop:
+	bne $t7, 't', texit
+	addi $t5, $t5, 1
+	texit:
+	
+	# Beginning of "S" loop
+	Sloop:
+	bne $t7, 'S', Sexit
+	addi $t6, $t6, 1
+	Sexit:
+	
+	# Beginning of "s" loop
+	sloop:
+	bne $t7, 's', sexit
+	addi $t6, $t6, 1
+	sexit:
+
+addi $a0, $a0, 1
+j loop
+exit:
+
+# Print K count
+li $v0, 4
+la $a0, strk
+syscall
+
+li $v0, 1
+move $a0, $t0
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Print N count
+li $v0, 4
+la $a0, strn
+syscall
+
+li $v0, 1
+move $a0, $t1
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+#Print I count
+li $v0, 4
+la $a0, stri
+syscall
+
+li $v0, 1
+move $a0, $t2
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Print G count
+li $v0, 4
+la $a0, strg
+syscall
+
+li $v0, 1
+move $a0, $t3
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Print H count
+li $v0, 4
+la $a0, strh
+syscall
+
+li $v0, 1
+move $a0, $t4
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Print T count
+
+li $v0, 4
+la $a0, strt
+syscall
+
+li $v0, 1
+move $a0, $t5
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+# Print S count
+li $v0, 4
+la $a0, strs
+syscall
+
+li $v0, 1
+move $a0, $t6
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Start of # loops
+
+# K # loop
+
+li $v0, 4
+la $a0, strkc
+syscall
+
+li $t8, 0 # # counter
+
+Khashloop:
+beq $t8, $t0, khashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Khashloop
+
+khashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# N # loop
+
+li $v0, 4
+la $a0, strnc
+syscall
+
+li $t8, 0 # # counter
+
+Nhashloop:
+beq $t8, $t1, nhashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Nhashloop
+
+nhashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# I # loop
+
+li $v0, 4
+la $a0, stric
+syscall
+
+li $t8, 0 # # counter
+
+Ihashloop:
+beq $t8, $t2, ihashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Ihashloop
+
+ihashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# G # loop
+
+li $v0, 4
+la $a0, strgc
+syscall
+
+li $t8, 0 # # counter
+
+Ghashloop:
+beq $t8, $t3, ghashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Ghashloop
+
+ghashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# h # loop
+
+li $v0, 4
+la $a0, strhc
+syscall
+
+li $t8, 0 # # counter
+
+Hhashloop:
+beq $t8, $t4, hhashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Hhashloop
+
+hhashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# T # loop
+
+li $v0, 4
+la $a0, strtc
+syscall
+
+li $t8, 0 # # counter
+
+Thashloop:
+beq $t8, $t5, thashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Thashloop
+
+thashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# S # loop
+
+li $v0, 4
+la $a0, strsc
+syscall
+
+li $t8, 0 # # counter
+
+Shashloop:
+beq $t8, $t6, shashexit
+li $v0, 4
+la $a0, strhash
+syscall
+add $t8, $t8, 1
+j Shashloop
+
+shashexit:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Exit
+li $v0, 10
+syscall

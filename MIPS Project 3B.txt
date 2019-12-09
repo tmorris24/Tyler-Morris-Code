@@ -1,0 +1,100 @@
+# Tyler Morris
+.data
+array1: .word 1 3 2 1 3 2 1 3 2
+array2: .word 0 1 2 0 1 2 0 1 2
+arrayf: .word 0 0 0 0 0 0 0 0 0
+
+space: .asciiz " "
+
+.text
+la $a0, array1
+la $a1, array2
+la $a2, arrayf
+li $t8, 0
+li $t9, 9
+li $s1, 0
+li $s2, 3
+li $s3, 0
+
+	
+	inc1: 	
+	beq $s3, $s2, exit2
+	
+		arth1: 
+		
+		beq $s1, $s2, exit1	
+	
+		lb $t0, 0($a0)
+		lb $t1, 0($a1)
+
+		mul $t3, $t0, $t1
+
+		add $a0, $a0, 4
+		add $a1, $a1, 12
+
+		lb $t0, 0($a0)
+		lb $t1, 0($a1)
+
+		mul $t4, $t0, $t1
+
+		add $a0, $a0, 4
+		add $a1, $a1, 12
+
+		lb $t0, 0($a0)
+		lb $t1, 0($a1)
+
+		mul $t5, $t0, $t1
+
+		add $t6, $t3, $t4
+		add $t6, $t6, $t5
+
+		sb $t6, 0($a2)
+		add $a2, $a2, 4
+	
+		sub $a0, $a0, 8
+		sub $a1, $a1, 20
+		
+		add $s1, $s1, 1
+		li $t6, 0
+		
+		j arth1
+		
+		exit1:
+	
+	add $a0, $a0, 12
+	sub $a1, $a1, 12
+	add $s3, $s3, 1
+	li $s1, 0 
+	
+	
+	j inc1
+	
+	exit2: 
+	
+
+la $a1, arrayf
+print:
+
+beq $t8, $t9, exitprint
+
+lb $a0, 0($a1)
+li $v0, 1
+syscall
+add $t8, $t8, 1
+add $a1, $a1, 4
+
+li $v0, 4
+la $a0, space
+syscall
+
+
+j print
+
+
+exitprint:
+
+
+
+
+
+

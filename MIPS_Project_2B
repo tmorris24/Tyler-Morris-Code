@@ -1,0 +1,377 @@
+# Tyler Morris - 07/01/19
+# Project_2A.asm-- A program that determine the count of letters
+# terminated string
+# Registers used:
+
+.data
+#str: .asciiz "KNIGHT KNIGHT UCF UCF"
+str: .asciiz "UCF, its athletic program, and the university's alumni and sports fans are sometimes jointly referred to as the UCF Nation, and are represented by the mascot Knightro. The Knight was chosen as the university mascot in 1970 by student election. The Knights of Pegasus was a submission put forth by students, staff, and faculty, who wished to replace UCF's original mascot, the Citronaut, which was a mix between an orange and an astronaut. The Knights were also chosen over Vincent the Vulture, which was a popular unofficial mascot among students at the time. In 1994, Knightro debuted as the Knights official athletic mascot."
+strns: .asciiz "\n"
+strhash: .asciiz "#"
+struser1: .space 10
+struser2: .space 10
+prompt1: .asciiz "Please enter your first word."
+prompt2: .asciiz "Please enter you second word."
+colon: .asciiz ": "
+
+.text
+#Prompt the user to enter a string
+
+la $a0, prompt1
+li $v0, 4
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+#Read first string
+li $v0, 8
+la  $a0, struser1
+li $a1, 9
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+# Prompt the user to enter a second string.
+la $a0, prompt2
+li $v0, 4
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+#Read second string
+li $v0, 8
+la  $a0, struser2
+li $a2, 9
+syscall
+
+#Store the inputs
+la $s0, struser1
+la $s1, struser2
+
+
+#Convert our sample to lower case
+
+la $t0, str # Load here the string
+toLowerCase:
+lb $t2, 0($t0) # We do as always, get the first byte pointed by the address
+beqz $t2, end # if is equal to zero, the string is terminated
+#if (character >= 'A'
+bge $t2,'A', upperCaseTest2
+j continue
+upperCaseTest2:
+# && character <= 'Z')
+ble $t2,'Z',isUpperCase
+continue:
+# Continue the iteration
+addi $t0, $t0, 1 # Increment the address
+j toLowerCase
+isUpperCase:
+# add 32, so it goes lower case
+addi $t2,$t2,32
+sb $t2, 0($t0) # store it in the string
+j continue # continue iteration as always
+end:
+
+#Convert the user input 1 to lowercase
+
+la $t0, struser1 # Load here the string
+toLowerCase1:
+lb $t2, 0($t0) # We do as always, get the first byte pointed by the address
+beqz $t2, end1 # if is equal to zero, the string is terminated
+#if (character >= 'A'
+bge $t2,'A', upperCaseTest2_1
+j continue1
+upperCaseTest2_1:
+# && character <= 'Z')
+ble $t2,'Z',isUpperCase1
+continue1:
+# Continue the iteration
+addi $t0, $t0, 1 # Increment the address
+j toLowerCase1
+isUpperCase1:
+# add 32, so it goes lower case
+addi $t2,$t2,32
+sb $t2, 0($t0) # store it in the string
+j continue1 # continue iteration as always
+end1:
+
+#Convert the user input 2 to lowercase
+la $t0, struser2 # Load here the string
+toLowerCase2:
+lb $t2, 0($t0) # We do as always, get the first byte pointed by the address
+beqz $t2, end2 # if is equal to zero, the string is terminated
+#if (character >= 'A'
+bge $t2,'A', upperCaseTest2_2
+j continue2
+upperCaseTest2_2:
+# && character <= 'Z')
+ble $t2,'Z',isUpperCase2
+continue2:
+# Continue the iteration
+addi $t0, $t0, 1 # Increment the address
+j toLowerCase2
+isUpperCase2:
+# add 32, so it goes lower case
+addi $t2,$t2,32
+sb $t2, 0($t0) # store it in the string
+j continue2 # continue iteration as always
+end2:
+
+#Assign the characters to registers
+
+la $t0, str # Load here the string
+la $t1, struser1
+li $t8, 0
+
+check1:
+lb $t2, 0($t0)
+lb $t3, 0($t1)
+beqz $t2, endcheck1
+bne $t2, $t3, contcheck1
+
+	addi $t0, $t0, 1
+	addi $t1, $t1, 1
+	lb $t2, 0($t0)
+	lb $t3, 0($t1)
+	beq $t3, 10, count1
+	bne $t2, $t3, contcheck1
+		
+		addi $t0, $t0, 1
+		addi $t1, $t1, 1
+		lb $t2, 0($t0)
+		lb $t3, 0($t1)
+		beq $t3, 10, count1
+		bne $t2, $t3, contcheck1
+		
+			addi $t0, $t0, 1
+			addi $t1, $t1, 1
+			lb $t2, 0($t0)
+			lb $t3, 0($t1)
+			beq $t3, 10, count1
+			bne $t2, $t3, contcheck1
+				
+				addi $t0, $t0, 1
+				addi $t1, $t1, 1
+				lb $t2, 0($t0)
+				lb $t3, 0($t1)
+				beq $t3, 10, count1
+				bne $t2, $t3, contcheck1
+				
+					addi $t0, $t0, 1
+					addi $t1, $t1, 1
+					lb $t2, 0($t0)
+					lb $t3, 0($t1)
+					beq $t3, 10, count1
+					bne $t2, $t3, contcheck1
+					
+						addi $t0, $t0, 1
+						addi $t1, $t1, 1
+						lb $t2, 0($t0)
+						lb $t3, 0($t1)
+						beq $t3, 10, count1
+						bne $t2, $t3, contcheck1
+						
+							addi $t0, $t0, 1
+							addi $t1, $t1, 1
+							lb $t2, 0($t0)
+							lb $t3, 0($t1)
+							beq $t3, 10, count1
+							bne $t2, $t3, contcheck1
+							
+								addi $t0, $t0, 1
+								addi $t1, $t1, 1
+								lb $t2, 0($t0)
+								lb $t3, 0($t1)
+								beq $t3, 10, count1
+								bne $t2, $t3, contcheck1
+								
+									addi $t0, $t0, 1
+									addi $t1, $t1, 1
+									lb $t2, 0($t0)
+									lb $t3, 0($t1)
+									beq $t3, 10, count1
+									bne $t2, $t3, contcheck1
+									j	contcheck1
+					
+count1:
+addi $t8, $t8, 1
+la $t1, struser1
+j	contcheck1
+
+contcheck1:
+addi $t0, $t0, 1
+la $t1, struser1
+j	check1
+
+endcheck1:
+
+#Assign the characters to registers
+
+la $t0, str # Load here the string
+la $t1, struser2
+li $t9, 0
+
+check2:
+lb $t2, 0($t0)
+lb $t3, 0($t1)
+beqz $t2, endcheck2
+bne $t2, $t3, contcheck2
+
+	addi $t0, $t0, 1
+	addi $t1, $t1, 1
+	lb $t2, 0($t0)
+	lb $t3, 0($t1)
+	beq $t3, 10, count2
+	bne $t2, $t3, contcheck2
+		
+		addi $t0, $t0, 1
+		addi $t1, $t1, 1
+		lb $t2, 0($t0)
+		lb $t3, 0($t1)
+		beq $t3, 10, count2
+		bne $t2, $t3, contcheck2
+		
+			addi $t0, $t0, 1
+			addi $t1, $t1, 1
+			lb $t2, 0($t0)
+			lb $t3, 0($t1)
+			beq $t3, 10, count2
+			bne $t2, $t3, contcheck2
+				
+				addi $t0, $t0, 1
+				addi $t1, $t1, 1
+				lb $t2, 0($t0)
+				lb $t3, 0($t1)
+				beq $t3, 10, count2
+				bne $t2, $t3, contcheck2
+				
+					addi $t0, $t0, 1
+					addi $t1, $t1, 1
+					lb $t2, 0($t0)
+					lb $t3, 0($t1)
+					beq $t3, 10, count2
+					bne $t2, $t3, contcheck2
+					
+						addi $t0, $t0, 1
+						addi $t1, $t1, 1
+						lb $t2, 0($t0)
+						lb $t3, 0($t1)
+						beq $t3, 10, count2
+						bne $t2, $t3, contcheck2
+						
+							addi $t0, $t0, 1
+							addi $t1, $t1, 1
+							lb $t2, 0($t0)
+							lb $t3, 0($t1)
+							beq $t3, 10, count2
+							bne $t2, $t3, contcheck2
+							
+								addi $t0, $t0, 1
+								addi $t1, $t1, 1
+								lb $t2, 0($t0)
+								lb $t3, 0($t1)
+								beq $t3, 10, count2
+								bne $t2, $t3, contcheck2
+								
+									addi $t0, $t0, 1
+									addi $t1, $t1, 1
+									lb $t2, 0($t0)
+									lb $t3, 0($t1)
+									beq $t3, 10, count2
+									bne $t2, $t3, contcheck2
+									j	contcheck2
+					
+count2:
+addi $t9, $t9, 1
+la $t1, struser2
+j	contcheck2
+
+contcheck2:
+addi $t0, $t0, 1
+la $t1, struser2
+j	check2
+
+endcheck2:
+
+move $t5, $s0
+move $t6, $s1
+
+li $v0, 4
+la $a0, ($t5)
+syscall
+
+li $v0, 4
+la $a0, colon
+syscall
+
+li $v0, 1
+la $a0, ($t8)
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+li $v0, 4
+la $a0, ($t6)
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+li $v0, 4
+la $a0, colon
+syscall
+
+li $v0, 1
+la $a0, ($t9)
+syscall
+
+li $v0, 4
+la $a0, strns
+syscall
+
+
+li $t0, 0
+hashloop1:
+beq $t8, $t0, hashexit1
+li $v0, 4
+la $a0, strhash
+syscall
+add $t0, $t0, 1
+j hashloop1
+hashexit1:
+
+li $v0, 4
+la $a0, strns
+syscall
+
+li $t0, 0
+hashloop2:
+beq $t9, $t0, hashexit2
+li $v0, 4
+la $a0, strhash
+syscall
+add $t0, $t0, 1
+j hashloop2
+hashexit2:
+
+
+
+
+
+			
+			
+	
+	
+
+
+
+
