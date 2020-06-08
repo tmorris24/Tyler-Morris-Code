@@ -1,0 +1,1936 @@
+0 downstream cap is 3.75174e-014
+1 downstream cap is 1.50703e-013
+2 downstream cap is 5.1862e-014
+3 downstream cap is 2.07798e-014
+4 downstream cap is 5.9866e-014
+5 downstream cap is 1.68454e-013
+6 downstream cap is 1.19064e-014
+7 downstream cap is 1.25204e-013
+8 downstream cap is 5.9866e-014
+9 downstream cap is 3.56439e-013
+10 downstream cap is 1.00061e-013
+11 downstream cap is 3.91101e-013
+12 downstream cap is 2.65934e-013
+13 downstream cap is 1.38305e-013
+14 downstream cap is 6.75388e-014
+15 downstream cap is 2.63912e-013
+16 downstream cap is 9.818e-015
+17 downstream cap is 1.18967e-013
+18 downstream cap is 2.73063e-014
+19 downstream cap is 2.03254e-013
+20 downstream cap is 1.23272e-013
+21 downstream cap is 6.6352e-014
+22 downstream cap is 3.52385e-014
+23 downstream cap is 1.67202e-013
+24 downstream cap is 3.42e-016
+25 downstream cap is 1.17276e-013
+26 downstream cap is 9.0778e-014
+27 downstream cap is 8.72176e-014
+28 downstream cap is 1.06363e-013
+29 downstream cap is 1.69572e-014
+30 downstream cap is 2.03266e-013
+31 downstream cap is 3.80887e-014
+32 downstream cap is 5.959e-014
+33 downstream cap is 1.65248e-014
+34 downstream cap is 6.62784e-014
+35 downstream cap is 1.3728e-014
+36 downstream cap is 6.19044e-015
+37 downstream cap is 1.56558e-013
+38 downstream cap is 1.87801e-013
+39 downstream cap is 4.7442e-015
+40 downstream cap is 8.76132e-014
+41 downstream cap is 1.34867e-013
+42 downstream cap is 1.59519e-013
+43 downstream cap is 2.31878e-013
+44 downstream cap is 1.21881e-013
+45 downstream cap is 1.72925e-013
+46 downstream cap is 2.51268e-014
+47 downstream cap is 4.44468e-014
+48 downstream cap is 1.4004e-014
+49 downstream cap is 6.85232e-014
+50 downstream cap is 7.6012e-014
+51 downstream cap is 1.05117e-014
+52 downstream cap is 2.624e-014
+53 downstream cap is 2.25876e-014
+54 downstream cap is 4.13832e-014
+55 downstream cap is 3.0058e-014
+56 downstream cap is 1.95631e-014
+57 downstream cap is 7.2884e-014
+58 downstream cap is 4.91195e-014
+59 downstream cap is 8.13765e-014
+60 downstream cap is 3.291e-014
+61 downstream cap is 6.45304e-014
+62 downstream cap is 1.446e-015
+63 downstream cap is 3.51465e-014
+64 downstream cap is 5.48014e-014
+65 downstream cap is 2.03147e-013
+66 downstream cap is 1.18532e-013
+67 downstream cap is 2.00999e-013
+68 downstream cap is 5.92974e-014
+69 downstream cap is 1.2721e-013
+70 downstream cap is 7.89928e-014
+71 downstream cap is 2.3066e-014
+72 downstream cap is 2.3066e-014
+73 downstream cap is 2.5826e-014
+74 downstream cap is 2.35131e-013
+75 downstream cap is 2.02687e-013
+76 downstream cap is 4.20557e-014
+77 downstream cap is 3.04904e-014
+78 downstream cap is 6.25763e-014
+79 downstream cap is 3.04444e-014
+80 downstream cap is 1.34414e-013
+81 downstream cap is 7.1527e-014
+82 downstream cap is 6.83628e-015
+83 downstream cap is 1.23124e-013
+84 downstream cap is 2.84811e-014
+85 downstream cap is 1.61697e-014
+86 downstream cap is 2.22012e-014
+87 downstream cap is 1.74406e-013
+88 downstream cap is 1.3728e-014
+89 downstream cap is 3.42e-016
+90 downstream cap is 1.865e-014
+91 downstream cap is 1.60358e-013
+92 downstream cap is 5.24517e-014
+93 downstream cap is 1.51071e-014
+94 downstream cap is 6.46644e-015
+95 downstream cap is 1.97647e-013
+96 downstream cap is 8.47756e-015
+97 downstream cap is 6.8928e-014
+98 downstream cap is 1.87742e-014
+99 downstream cap is 1.13215e-013
+100 downstream cap is 4.7258e-015
+101 downstream cap is 1.8977e-013
+102 downstream cap is 7.69679e-014
+103 downstream cap is 6.88875e-014
+104 downstream cap is 8.50335e-014
+105 downstream cap is 5.22852e-014
+106 downstream cap is 8.949e-014
+107 downstream cap is 7.52904e-015
+108 downstream cap is 1.0738e-014
+109 downstream cap is 6.7134e-014
+110 downstream cap is 3.02626e-013
+111 downstream cap is 6.2442e-014
+112 downstream cap is 2.29532e-013
+113 downstream cap is 1.56421e-013
+114 downstream cap is 1.62225e-013
+115 downstream cap is 6.3638e-014
+116 downstream cap is 2.70151e-014
+117 downstream cap is 4.21707e-013
+118 downstream cap is 1.08122e-013
+119 downstream cap is 7.5644e-014
+120 downstream cap is 1.0416e-014
+121 downstream cap is 8.7834e-014
+122 downstream cap is 2.9534e-013
+123 downstream cap is 3.55016e-014
+124 downstream cap is 1.17642e-013
+125 downstream cap is 3.0414e-014
+126 downstream cap is 1.34138e-013
+127 downstream cap is 2.8356e-014
+128 downstream cap is 1.15729e-014
+129 downstream cap is 2.8356e-014
+130 downstream cap is 1.0416e-014
+131 downstream cap is 1.45496e-014
+132 downstream cap is 1.4004e-014
+133 downstream cap is 1.11938e-013
+134 downstream cap is 1.39341e-014
+135 downstream cap is 1.84405e-013
+136 downstream cap is 8.59563e-014
+137 downstream cap is 2.8126e-014
+138 downstream cap is 1.15894e-013
+139 downstream cap is 1.73169e-014
+140 downstream cap is 2.43862e-014
+141 downstream cap is 8.54236e-014
+142 downstream cap is 2.28415e-014
+143 downstream cap is 9.27152e-015
+144 downstream cap is 3.98468e-014
+145 downstream cap is 1.23366e-013
+146 downstream cap is 1.13489e-014
+147 downstream cap is 4.09112e-014
+148 downstream cap is 1.5987e-013
+149 downstream cap is 2.40609e-013
+150 downstream cap is 8.898e-015
+151 downstream cap is 9.53832e-015
+152 downstream cap is 5.6646e-014
+153 downstream cap is 1.1152e-014
+154 downstream cap is 3.14899e-013
+155 downstream cap is 1.45532e-013
+156 downstream cap is 2.39027e-013
+157 downstream cap is 1.47211e-013
+158 downstream cap is 2.53986e-013
+159 downstream cap is 2.2254e-013
+160 downstream cap is 5.1482e-014
+161 downstream cap is 4.5422e-014
+162 downstream cap is 2.5774e-013
+163 downstream cap is 9.179e-014
+164 downstream cap is 1.51047e-013
+165 downstream cap is 7.09603e-014
+166 downstream cap is 5.89837e-014
+167 downstream cap is 6.59656e-014
+168 downstream cap is 6.57227e-014
+169 downstream cap is 2.969e-014
+170 downstream cap is 8.69508e-014
+171 downstream cap is 1.52998e-013
+172 downstream cap is 9.7908e-014
+173 downstream cap is 1.42984e-014
+174 downstream cap is 1.4326e-014
+175 downstream cap is 5.678e-015
+176 downstream cap is 1.59824e-013
+177 downstream cap is 7.57268e-014
+178 downstream cap is 1.04751e-013
+179 downstream cap is 1.46308e-013
+180 downstream cap is 2.75547e-014
+181 downstream cap is 4.25304e-014
+182 downstream cap is 1.56438e-013
+183 downstream cap is 1.10122e-014
+184 downstream cap is 8.94e-016
+185 downstream cap is 4.23915e-014
+186 downstream cap is 3.36791e-014
+187 downstream cap is 3.52808e-014
+188 downstream cap is 4.56051e-014
+189 downstream cap is 1.87061e-013
+190 downstream cap is 2.94508e-014
+191 downstream cap is 2.20687e-013
+192 downstream cap is 6.6973e-014
+193 downstream cap is 6.20482e-014
+194 downstream cap is 1.74588e-013
+195 downstream cap is 2.32328e-013
+196 downstream cap is 2.1433e-014
+197 downstream cap is 2.04164e-014
+198 downstream cap is 2.71144e-013
+199 downstream cap is 2.07986e-013
+200 downstream cap is 9.84876e-014
+201 downstream cap is 2.10751e-014
+202 downstream cap is 7.7714e-014
+203 downstream cap is 3.1438e-014
+204 downstream cap is 2.647e-014
+205 downstream cap is 2.647e-014
+206 downstream cap is 4.02369e-014
+207 downstream cap is 6.81874e-014
+208 downstream cap is 1.446e-015
+209 downstream cap is 1.446e-015
+210 downstream cap is 6.38364e-015
+211 downstream cap is 9.86146e-014
+212 downstream cap is 3.2726e-014
+213 downstream cap is 6.82592e-014
+214 downstream cap is 8.4706e-014
+215 downstream cap is 4.52242e-014
+216 downstream cap is 3.2726e-014
+217 downstream cap is 1.33245e-013
+218 downstream cap is 5.84722e-014
+219 downstream cap is 2.94296e-014
+220 downstream cap is 4.70725e-014
+221 downstream cap is 6.30786e-014
+222 downstream cap is 1.13953e-013
+223 downstream cap is 2.59447e-014
+224 downstream cap is 6.80669e-014
+225 downstream cap is 8.26958e-014
+226 downstream cap is 2.22844e-013
+227 downstream cap is 6.34246e-014
+228 downstream cap is 2.99942e-013
+229 downstream cap is 5.1632e-014
+230 downstream cap is 1.0232e-014
+231 downstream cap is 5.3656e-014
+232 downstream cap is 1.56843e-013
+233 downstream cap is 1.76113e-014
+234 downstream cap is 7.82344e-015
+235 downstream cap is 7.17944e-015
+236 downstream cap is 1.003e-013
+237 downstream cap is 7.9922e-014
+238 downstream cap is 7.54692e-014
+239 downstream cap is 9.21448e-015
+240 downstream cap is 9.84738e-014
+241 downstream cap is 1.65609e-013
+242 downstream cap is 8.898e-015
+243 downstream cap is 1.65798e-013
+244 downstream cap is 1.34809e-013
+245 downstream cap is 1.05393e-014
+246 downstream cap is 2.51314e-014
+247 downstream cap is 4.76944e-014
+248 downstream cap is 1.55263e-013
+249 downstream cap is 1.00951e-013
+250 downstream cap is 1.17e-015
+251 downstream cap is 3.006e-013
+252 downstream cap is 6.695e-014
+253 downstream cap is 9.3998e-014
+254 downstream cap is 4.67284e-014
+255 downstream cap is 2.42015e-013
+256 downstream cap is 3.10413e-013
+257 downstream cap is 2.97379e-013
+258 downstream cap is 1.0094e-014
+259 downstream cap is 1.25407e-013
+260 downstream cap is 7.83212e-014
+261 downstream cap is 2.5501e-013
+262 downstream cap is 1.30115e-013
+263 downstream cap is 3.04168e-014
+264 downstream cap is 1.16142e-013
+265 downstream cap is 1.73127e-013
+266 downstream cap is 8.48584e-015
+267 downstream cap is 1.93142e-013
+268 downstream cap is 1.06947e-013
+269 downstream cap is 1.86484e-013
+270 downstream cap is 1.08426e-013
+271 downstream cap is 1.66745e-013
+272 downstream cap is 1.21465e-013
+273 downstream cap is 9.91534e-014
+274 downstream cap is 1.79782e-013
+275 downstream cap is 1.47236e-013
+276 downstream cap is 1.34479e-013
+277 downstream cap is 2.08126e-013
+278 downstream cap is 1.7645e-013
+279 downstream cap is 1.49579e-013
+280 downstream cap is 4.30196e-013
+281 downstream cap is 2.4088e-013
+282 downstream cap is 2.05349e-013
+283 downstream cap is 2.36768e-013
+284 downstream cap is 2.89844e-013
+285 downstream cap is 2.84372e-013
+286 downstream cap is 2.02063e-013
+287 downstream cap is 5.0468e-013
+288 downstream cap is 1.84224e-013
+289 downstream cap is 3.32535e-013
+290 downstream cap is 2.33006e-013
+291 downstream cap is 2.58938e-013
+292 downstream cap is 3.31443e-013
+293 downstream cap is 4.44118e-013
+294 downstream cap is 2.28359e-013
+295 downstream cap is 3.4067e-013
+296 downstream cap is 3.39695e-013
+297 downstream cap is 3.1063e-013
+298 downstream cap is 2.94897e-013
+299 downstream cap is 4.85781e-013
+300 downstream cap is 2.87547e-013
+301 downstream cap is 1.12595e-012
+302 downstream cap is 2.92652e-013
+303 downstream cap is 2.88758e-013
+304 downstream cap is 4.91666e-013
+305 downstream cap is 6.381e-013
+306 downstream cap is 4.05426e-013
+307 downstream cap is 3.92703e-013
+308 downstream cap is 3.30912e-013
+309 downstream cap is 3.72267e-013
+310 downstream cap is 3.70848e-013
+311 downstream cap is 4.74788e-013
+312 downstream cap is 4.00698e-013
+313 downstream cap is 4.45307e-013
+314 downstream cap is 5.31036e-013
+315 downstream cap is 3.57709e-013
+316 downstream cap is 4.60171e-013
+317 downstream cap is 5.3173e-013
+318 downstream cap is 3.70582e-013
+319 downstream cap is 3.81764e-013
+320 downstream cap is 5.43652e-013
+321 downstream cap is 4.68806e-013
+322 downstream cap is 1.16327e-012
+323 downstream cap is 6.35076e-013
+324 downstream cap is 4.76125e-013
+325 downstream cap is 4.2951e-013
+326 downstream cap is 6.52922e-013
+327 downstream cap is 4.86358e-013
+328 downstream cap is 5.65414e-013
+329 downstream cap is 4.68153e-013
+330 downstream cap is 5.04423e-013
+331 downstream cap is 6.8355e-013
+332 downstream cap is 7.7111e-013
+333 downstream cap is 5.39373e-013
+334 downstream cap is 4.99567e-013
+335 downstream cap is 5.9086e-013
+336 downstream cap is 5.62228e-013
+337 downstream cap is 6.29214e-013
+338 downstream cap is 5.22209e-013
+339 downstream cap is 6.0315e-013
+340 downstream cap is 6.1874e-013
+341 downstream cap is 6.68862e-013
+342 downstream cap is 6.0423e-013
+343 downstream cap is 6.36877e-013
+344 downstream cap is 8.90646e-013
+345 downstream cap is 9.81463e-013
+346 downstream cap is 7.09928e-013
+347 downstream cap is 8.3627e-013
+348 downstream cap is 6.41079e-013
+349 downstream cap is 8.30452e-013
+350 downstream cap is 6.60986e-013
+351 downstream cap is 8.96925e-013
+352 downstream cap is 9.22568e-013
+353 downstream cap is 9.80066e-013
+354 downstream cap is 8.25917e-013
+355 downstream cap is 8.95171e-013
+356 downstream cap is 7.28433e-013
+357 downstream cap is 7.82416e-013
+358 downstream cap is 7.78037e-013
+359 downstream cap is 8.62673e-013
+360 downstream cap is 8.68138e-013
+361 downstream cap is 9.15605e-013
+362 downstream cap is 1.64556e-012
+363 downstream cap is 1.49536e-012
+364 downstream cap is 1.16979e-012
+365 downstream cap is 1.39294e-012
+366 downstream cap is 1.21627e-012
+367 downstream cap is 1.27531e-012
+368 downstream cap is 1.36537e-012
+369 downstream cap is 1.40912e-012
+370 downstream cap is 1.56027e-012
+371 downstream cap is 2.05038e-012
+372 downstream cap is 1.37319e-012
+373 downstream cap is 1.01852e-012
+374 downstream cap is 1.0613e-012
+375 downstream cap is 1.42543e-012
+376 downstream cap is 1.59129e-012
+377 downstream cap is 1.46275e-012
+378 downstream cap is 1.34767e-012
+379 downstream cap is 1.42526e-012
+380 downstream cap is 7.53565e-013
+381 downstream cap is 6.84559e-013
+382 downstream cap is 1.01556e-012
+383 downstream cap is 1.0995e-012
+384 downstream cap is 2.33251e-012
+385 downstream cap is 8.00464e-013
+386 downstream cap is 5.83543e-013
+387 downstream cap is 7.0896e-013
+388 downstream cap is 8.43389e-013
+389 downstream cap is 7.23344e-013
+390 downstream cap is 7.9092e-013
+391 downstream cap is 8.42926e-013
+392 downstream cap is 1.17668e-012
+393 downstream cap is 7.75002e-013
+394 downstream cap is 1.30974e-012
+395 downstream cap is 7.07526e-013
+396 downstream cap is 9.24263e-013
+397 downstream cap is 5.91936e-013
+398 downstream cap is 9.57026e-013
+399 downstream cap is 6.10297e-013
+400 downstream cap is 1.03891e-012
+401 downstream cap is 3.37831e-013
+402 downstream cap is 1.36385e-012
+403 downstream cap is 4.91796e-013
+404 downstream cap is 6.00577e-013
+405 downstream cap is 1.02505e-012
+406 downstream cap is 8.12608e-013
+407 downstream cap is 8.88074e-013
+408 downstream cap is 1.27809e-012
+409 downstream cap is 1.51146e-012
+410 downstream cap is 1.77309e-012
+411 downstream cap is 1.05121e-012
+412 downstream cap is 6.05493e-013
+413 downstream cap is 1.61843e-012
+414 downstream cap is 1.21866e-012
+415 downstream cap is 1.04886e-012
+416 downstream cap is 1.41902e-012
+417 downstream cap is 1.94067e-012
+418 downstream cap is 1.45425e-012
+419 downstream cap is 1.94593e-012
+420 downstream cap is 1.29665e-012
+421 downstream cap is 1.56742e-012
+422 downstream cap is 1.9837e-012
+423 downstream cap is 1.30665e-012
+424 downstream cap is 1.03612e-012
+425 downstream cap is 1.75113e-012
+426 downstream cap is 1.22348e-012
+427 downstream cap is 2.66661e-012
+428 downstream cap is 2.27215e-012
+429 downstream cap is 2.89886e-012
+430 downstream cap is 1.88643e-012
+431 downstream cap is 2.38805e-012
+432 downstream cap is 3.22206e-012
+433 downstream cap is 2.3903e-012
+434 downstream cap is 2.82342e-012
+435 downstream cap is 1.29949e-012
+436 downstream cap is 4.98499e-012
+437 downstream cap is 3.29615e-012
+438 downstream cap is 4.22688e-012
+439 downstream cap is 1.84722e-012
+440 downstream cap is 1.32357e-012
+441 downstream cap is 4.78133e-012
+442 downstream cap is 2.445e-012
+443 downstream cap is 4.88208e-012
+444 downstream cap is 2.25322e-012
+445 downstream cap is 1.8474e-012
+446 downstream cap is 3.29776e-012
+447 downstream cap is 3.61766e-013
+448 downstream cap is 2.64496e-012
+449 downstream cap is 3.37663e-012
+450 downstream cap is 5.15807e-012
+451 downstream cap is 3.30934e-012
+452 downstream cap is 2.07534e-012
+453 downstream cap is 1.73731e-012
+454 downstream cap is 1.93895e-012
+455 downstream cap is 1.96407e-012
+456 downstream cap is 1.84555e-012
+457 downstream cap is 1.85083e-012
+458 downstream cap is 1.77478e-012
+459 downstream cap is 3.23063e-012
+460 downstream cap is 2.13706e-012
+461 downstream cap is 2.06219e-012
+462 downstream cap is 1.30169e-012
+463 downstream cap is 3.45217e-012
+464 downstream cap is 1.7603e-012
+465 downstream cap is 2.50105e-012
+466 downstream cap is 2.64587e-012
+467 downstream cap is 2.71927e-012
+468 downstream cap is 3.96365e-012
+469 downstream cap is 4.37448e-012
+470 downstream cap is 5.18851e-012
+471 downstream cap is 3.9582e-012
+472 downstream cap is 5.46849e-012
+473 downstream cap is 6.36894e-012
+474 downstream cap is 5.324e-012
+475 downstream cap is 6.43927e-012
+476 downstream cap is 8.07123e-012
+477 downstream cap is 5.37228e-012
+478 downstream cap is 3.57341e-012
+479 downstream cap is 4.91328e-012
+480 downstream cap is 2.69555e-012
+481 downstream cap is 3.96485e-012
+482 downstream cap is 4.35029e-012
+483 downstream cap is 2.79144e-012
+484 downstream cap is 3.6713e-012
+485 downstream cap is 1.49583e-012
+486 downstream cap is 2.93092e-012
+487 downstream cap is 4.05922e-012
+488 downstream cap is 3.62181e-012
+489 downstream cap is 3.59768e-012
+490 downstream cap is 3.04704e-012
+491 downstream cap is 6.36462e-012
+492 downstream cap is 5.42428e-012
+493 downstream cap is 1.06756e-011
+494 downstream cap is 8.42194e-012
+495 downstream cap is 6.67815e-012
+496 downstream cap is 5.52128e-012
+497 downstream cap is 1.11775e-011
+498 downstream cap is 1.07728e-011
+499 downstream cap is 1.28584e-011
+500 downstream cap is 6.84858e-012
+501 downstream cap is 6.59865e-012
+502 downstream cap is 1.00009e-011
+503 downstream cap is 8.48202e-012
+504 downstream cap is 5.47051e-012
+505 downstream cap is 1.24089e-011
+506 downstream cap is 6.35801e-012
+507 downstream cap is 1.15668e-011
+508 downstream cap is 9.3827e-012
+509 downstream cap is 1.30144e-011
+510 downstream cap is 1.34389e-011
+511 downstream cap is 1.98468e-011
+512 downstream cap is 1.88951e-011
+513 downstream cap is 1.16043e-011
+514 downstream cap is 1.14942e-011
+515 downstream cap is 1.44566e-011
+516 downstream cap is 1.00686e-011
+517 downstream cap is 1.3112e-011
+518 downstream cap is 2.45172e-011
+519 downstream cap is 2.90404e-011
+520 downstream cap is 3.56029e-011
+521 downstream cap is 2.53238e-011
+522 downstream cap is 2.63839e-011
+523 downstream cap is 1.66444e-011
+524 downstream cap is 2.57977e-011
+525 downstream cap is 5.67205e-011
+526 downstream cap is 4.88165e-011
+527 downstream cap is 3.03897e-011
+528 downstream cap is 6.86731e-011
+529 downstream cap is 7.89118e-011
+530 downstream cap is 1.41053e-010
+531 downstream cap is 9.85246e-011
+532 downstream cap is 2.43051e-010
+533 downstream cap is 8.58707e-014
+534 downstream cap is 3.593e-013
+535 downstream cap is 1.23818e-013
+536 downstream cap is 1.61704e-013
+537 downstream cap is 1.30338e-013
+538 downstream cap is 4.42318e-013
+539 downstream cap is 1.30338e-013
+540 downstream cap is 7.14284e-013
+541 downstream cap is 7.83608e-013
+542 downstream cap is 5.34637e-013
+543 downstream cap is 2.48264e-013
+544 downstream cap is 5.64584e-013
+545 downstream cap is 4.6998e-014
+546 downstream cap is 6.85306e-014
+547 downstream cap is 4.07643e-013
+548 downstream cap is 3.93209e-013
+549 downstream cap is 8.7063e-014
+550 downstream cap is 4.4146e-014
+551 downstream cap is 2.5353e-013
+552 downstream cap is 2.41204e-013
+553 downstream cap is 1.81361e-013
+554 downstream cap is 8.88644e-014
+555 downstream cap is 1.01687e-013
+556 downstream cap is 1.53358e-013
+557 downstream cap is 4.17567e-014
+558 downstream cap is 1.80713e-014
+559 downstream cap is 3.80235e-013
+560 downstream cap is 3.87791e-013
+561 downstream cap is 2.38363e-013
+562 downstream cap is 3.82712e-013
+563 downstream cap is 3.46346e-013
+564 downstream cap is 4.25509e-013
+565 downstream cap is 5.71964e-013
+566 downstream cap is 4.01688e-013
+567 downstream cap is 1.68481e-013
+568 downstream cap is 5.84768e-014
+569 downstream cap is 1.00219e-013
+570 downstream cap is 1.22518e-013
+571 downstream cap is 5.76451e-014
+572 downstream cap is 7.37497e-014
+573 downstream cap is 6.93392e-014
+574 downstream cap is 1.327e-013
+575 downstream cap is 1.71768e-013
+576 downstream cap is 7.94261e-014
+577 downstream cap is 4.61939e-014
+578 downstream cap is 1.26807e-013
+579 downstream cap is 1.79794e-013
+580 downstream cap is 2.58341e-013
+581 downstream cap is 4.14014e-013
+582 downstream cap is 1.76619e-013
+583 downstream cap is 4.0636e-013
+584 downstream cap is 1.18867e-013
+585 downstream cap is 1.64257e-013
+586 downstream cap is 9.87894e-014
+587 downstream cap is 5.57382e-013
+588 downstream cap is 1.79725e-013
+589 downstream cap is 1.97533e-013
+590 downstream cap is 8.50869e-014
+591 downstream cap is 1.50946e-013
+592 downstream cap is 9.31866e-014
+593 downstream cap is 2.82247e-013
+594 downstream cap is 6.94082e-014
+595 downstream cap is 4.8377e-014
+596 downstream cap is 4.39353e-014
+597 downstream cap is 2.931e-014
+598 downstream cap is 1.12823e-013
+599 downstream cap is 1.06424e-013
+600 downstream cap is 4.39288e-014
+601 downstream cap is 7.59209e-014
+602 downstream cap is 3.95826e-013
+603 downstream cap is 8.19911e-014
+604 downstream cap is 1.80634e-013
+605 downstream cap is 2.29745e-013
+606 downstream cap is 1.25157e-013
+607 downstream cap is 2.14444e-013
+608 downstream cap is 1.75654e-013
+609 downstream cap is 2.95857e-013
+610 downstream cap is 1.50071e-013
+611 downstream cap is 1.73766e-013
+612 downstream cap is 1.34568e-013
+613 downstream cap is 3.21038e-013
+614 downstream cap is 3.30578e-013
+615 downstream cap is 2.01493e-013
+616 downstream cap is 3.73998e-013
+617 downstream cap is 9.91099e-013
+618 downstream cap is 2.39228e-013
+619 downstream cap is 1.5578e-013
+620 downstream cap is 2.08489e-013
+621 downstream cap is 2.35901e-013
+622 downstream cap is 1.29159e-013
+623 downstream cap is 1.42667e-013
+624 downstream cap is 2.68259e-013
+625 downstream cap is 1.02921e-013
+626 downstream cap is 1.65984e-013
+627 downstream cap is 4.01127e-014
+628 downstream cap is 8.94992e-014
+629 downstream cap is 1.37834e-013
+630 downstream cap is 3.81441e-013
+631 downstream cap is 1.75228e-013
+632 downstream cap is 6.3213e-014
+633 downstream cap is 2.69437e-013
+634 downstream cap is 6.33832e-014
+635 downstream cap is 1.51251e-013
+636 downstream cap is 5.1873e-014
+637 downstream cap is 3.8073e-014
+638 downstream cap is 3.97037e-013
+639 downstream cap is 2.9457e-013
+640 downstream cap is 8.54365e-014
+641 downstream cap is 3.90223e-013
+642 downstream cap is 1.88625e-014
+643 downstream cap is 2.8115e-014
+644 downstream cap is 1.86971e-013
+645 downstream cap is 7.4506e-014
+646 downstream cap is 3.43485e-013
+647 downstream cap is 6.12131e-013
+648 downstream cap is 5.34383e-013
+649 downstream cap is 1.64446e-013
+650 downstream cap is 9.63928e-014
+651 downstream cap is 1.75251e-013
+652 downstream cap is 1.51297e-013
+653 downstream cap is 1.75907e-013
+654 downstream cap is 2.34521e-013
+655 downstream cap is 4.50209e-014
+656 downstream cap is 2.59625e-013
+657 downstream cap is 3.70831e-013
+658 downstream cap is 4.72306e-013
+659 downstream cap is 3.21531e-013
+660 downstream cap is 8.7558e-014
+661 downstream cap is 2.83378e-013
+662 downstream cap is 3.66019e-013
+663 downstream cap is 2.25595e-013
+664 downstream cap is 1.83225e-014
+665 downstream cap is 8.5821e-014
+666 downstream cap is 1.16052e-013
+667 downstream cap is 8.6534e-014
+668 downstream cap is 2.14945e-013
+669 downstream cap is 4.46261e-013
+670 downstream cap is 1.41838e-013
+671 downstream cap is 1.84474e-013
+672 downstream cap is 4.42122e-013
+673 downstream cap is 5.05623e-013
+674 downstream cap is 6.2488e-014
+675 downstream cap is 1.25697e-013
+676 downstream cap is 4.74376e-013
+677 downstream cap is 2.33971e-013
+678 downstream cap is 8.61053e-014
+679 downstream cap is 1.68193e-013
+680 downstream cap is 1.01132e-013
+681 downstream cap is 9.81049e-014
+682 downstream cap is 1.11787e-013
+683 downstream cap is 9.63707e-014
+684 downstream cap is 3.43188e-013
+685 downstream cap is 1.05195e-013
+686 downstream cap is 8.36287e-014
+687 downstream cap is 4.57928e-014
+688 downstream cap is 2.09085e-013
+689 downstream cap is 1.17795e-013
+690 downstream cap is 3.2274e-013
+691 downstream cap is 1.74478e-013
+692 downstream cap is 1.61716e-013
+693 downstream cap is 1.02493e-013
+694 downstream cap is 1.79333e-013
+695 downstream cap is 3.22465e-013
+696 downstream cap is 9.5183e-014
+697 downstream cap is 1.36993e-013
+698 downstream cap is 2.3796e-013
+699 downstream cap is 7.4022e-014
+700 downstream cap is 4.34139e-013
+701 downstream cap is 1.72607e-013
+702 downstream cap is 2.10081e-013
+703 downstream cap is 6.42239e-013
+704 downstream cap is 2.14297e-013
+705 downstream cap is 5.2334e-014
+706 downstream cap is 2.21347e-013
+707 downstream cap is 2.12849e-014
+708 downstream cap is 1.80986e-013
+709 downstream cap is 2.4619e-014
+710 downstream cap is 2.10008e-013
+711 downstream cap is 3.3175e-013
+712 downstream cap is 1.93062e-013
+713 downstream cap is 3.49005e-013
+714 downstream cap is 5.55126e-014
+715 downstream cap is 3.21959e-013
+716 downstream cap is 2.31921e-013
+717 downstream cap is 3.71926e-014
+718 downstream cap is 6.44851e-013
+719 downstream cap is 1.81175e-013
+720 downstream cap is 3.51947e-013
+721 downstream cap is 5.01536e-013
+722 downstream cap is 7.83279e-013
+723 downstream cap is 7.57209e-013
+724 downstream cap is 1.22186e-013
+725 downstream cap is 5.17791e-013
+726 downstream cap is 3.977e-013
+727 downstream cap is 2.02177e-014
+728 downstream cap is 1.99099e-013
+729 downstream cap is 4.00789e-013
+730 downstream cap is 1.66565e-013
+731 downstream cap is 2.64993e-013
+732 downstream cap is 2.21915e-013
+733 downstream cap is 2.16766e-013
+734 downstream cap is 2.91264e-013
+735 downstream cap is 1.95063e-013
+736 downstream cap is 1.62854e-013
+737 downstream cap is 1.74029e-013
+738 downstream cap is 7.2711e-013
+739 downstream cap is 3.70353e-013
+740 downstream cap is 2.74387e-013
+741 downstream cap is 3.14674e-013
+742 downstream cap is 6.2379e-013
+743 downstream cap is 4.27687e-013
+744 downstream cap is 2.567e-013
+745 downstream cap is 8.42181e-013
+746 downstream cap is 3.55212e-013
+747 downstream cap is 3.14876e-013
+748 downstream cap is 3.38116e-013
+749 downstream cap is 4.54351e-013
+750 downstream cap is 7.65067e-013
+751 downstream cap is 3.01131e-013
+752 downstream cap is 5.35373e-013
+753 downstream cap is 4.52709e-013
+754 downstream cap is 4.79974e-013
+755 downstream cap is 7.03445e-013
+756 downstream cap is 5.31126e-013
+757 downstream cap is 4.22233e-013
+758 downstream cap is 3.30471e-013
+759 downstream cap is 6.09352e-013
+760 downstream cap is 1.02485e-012
+761 downstream cap is 4.42127e-013
+762 downstream cap is 4.87995e-013
+763 downstream cap is 7.90409e-013
+764 downstream cap is 5.20976e-013
+765 downstream cap is 4.7802e-013
+766 downstream cap is 6.34666e-013
+767 downstream cap is 7.6119e-013
+768 downstream cap is 7.14428e-013
+769 downstream cap is 9.77932e-013
+770 downstream cap is 5.18548e-013
+771 downstream cap is 8.77268e-013
+772 downstream cap is 6.91262e-013
+773 downstream cap is 4.9229e-013
+774 downstream cap is 7.02732e-013
+775 downstream cap is 1.08036e-012
+776 downstream cap is 6.28845e-013
+777 downstream cap is 7.52046e-013
+778 downstream cap is 7.63626e-013
+779 downstream cap is 6.39343e-013
+780 downstream cap is 8.92942e-013
+781 downstream cap is 1.22346e-012
+782 downstream cap is 8.28975e-013
+783 downstream cap is 1.39795e-012
+784 downstream cap is 9.23633e-013
+785 downstream cap is 8.1313e-013
+786 downstream cap is 1.1649e-012
+787 downstream cap is 9.49253e-013
+788 downstream cap is 1.01439e-012
+789 downstream cap is 8.76783e-013
+790 downstream cap is 1.50632e-012
+791 downstream cap is 1.088e-012
+792 downstream cap is 1.11211e-012
+793 downstream cap is 1.44113e-012
+794 downstream cap is 2.23965e-012
+795 downstream cap is 2.38524e-012
+796 downstream cap is 2.40571e-012
+797 downstream cap is 1.51053e-012
+798 downstream cap is 1.37618e-012
+799 downstream cap is 1.1649e-012
+800 downstream cap is 1.85023e-012
+801 downstream cap is 2.12636e-012
+802 downstream cap is 1.603e-012
+803 downstream cap is 1.88937e-012
+804 downstream cap is 8.73397e-013
+805 downstream cap is 8.04861e-013
+806 downstream cap is 1.16901e-012
+807 downstream cap is 1.19333e-012
+808 downstream cap is 2.65962e-012
+809 downstream cap is 8.87372e-013
+810 downstream cap is 6.23521e-013
+811 downstream cap is 9.5422e-013
+812 downstream cap is 1.0216e-012
+813 downstream cap is 1.57905e-012
+814 downstream cap is 9.77868e-013
+815 downstream cap is 7.69761e-013
+816 downstream cap is 9.70986e-013
+817 downstream cap is 7.26121e-013
+818 downstream cap is 1.04112e-012
+819 downstream cap is 8.1139e-013
+820 downstream cap is 5.16793e-013
+821 downstream cap is 6.22328e-013
+822 downstream cap is 9.65343e-013
+823 downstream cap is 1.11743e-012
+824 downstream cap is 9.98753e-013
+825 downstream cap is 1.974e-012
+826 downstream cap is 2.2548e-012
+827 downstream cap is 7.45116e-013
+828 downstream cap is 1.67715e-012
+829 downstream cap is 1.35971e-012
+830 downstream cap is 2.24921e-012
+831 downstream cap is 1.52835e-012
+832 downstream cap is 1.71878e-012
+833 downstream cap is 2.51555e-012
+834 downstream cap is 1.44352e-012
+835 downstream cap is 1.19988e-012
+836 downstream cap is 2.00009e-012
+837 downstream cap is 1.31171e-012
+838 downstream cap is 2.36011e-012
+839 downstream cap is 2.23794e-012
+840 downstream cap is 2.60304e-012
+841 downstream cap is 3.64301e-012
+842 downstream cap is 2.94767e-012
+843 downstream cap is 5.21136e-012
+844 downstream cap is 3.77159e-012
+845 downstream cap is 4.87393e-012
+846 downstream cap is 5.27281e-012
+847 downstream cap is 2.83938e-012
+848 downstream cap is 5.81675e-012
+849 downstream cap is 2.4477e-012
+850 downstream cap is 4.58102e-013
+851 downstream cap is 2.79616e-012
+852 downstream cap is 5.50824e-012
+853 downstream cap is 3.46991e-012
+854 downstream cap is 2.32793e-012
+855 downstream cap is 2.31029e-012
+856 downstream cap is 1.93477e-012
+857 downstream cap is 1.99425e-012
+858 downstream cap is 1.78421e-012
+859 downstream cap is 3.66499e-012
+860 downstream cap is 2.30795e-012
+861 downstream cap is 2.77458e-012
+862 downstream cap is 2.86437e-012
+863 downstream cap is 4.38805e-012
+864 downstream cap is 4.56487e-012
+865 downstream cap is 5.54672e-012
+866 downstream cap is 8.10237e-012
+867 downstream cap is 4.00013e-012
+868 downstream cap is 5.49487e-012
+869 downstream cap is 2.90395e-012
+870 downstream cap is 4.51784e-012
+871 downstream cap is 4.70095e-012
+872 downstream cap is 3.14937e-012
+873 downstream cap is 2.03892e-012
+874 downstream cap is 4.35376e-012
+875 downstream cap is 3.69662e-012
+876 downstream cap is 3.71473e-012
+877 downstream cap is 6.65885e-012
+878 downstream cap is 6.06607e-012
+879 downstream cap is 1.11212e-011
+880 downstream cap is 8.79067e-012
+881 downstream cap is 6.93155e-012
+882 downstream cap is 6.12167e-012
+883 downstream cap is 1.15649e-011
+884 downstream cap is 1.36286e-011
+885 downstream cap is 1.06685e-011
+886 downstream cap is 8.66721e-012
+887 downstream cap is 5.74659e-012
+888 downstream cap is 1.38669e-011
+889 downstream cap is 1.18364e-011
+890 downstream cap is 1.01483e-011
+891 downstream cap is 1.39759e-011
+892 downstream cap is 1.38055e-011
+893 downstream cap is 1.97552e-011
+894 downstream cap is 1.22242e-011
+895 downstream cap is 1.4756e-011
+896 downstream cap is 1.3259e-011
+897 downstream cap is 2.96797e-011
+898 downstream cap is 2.65259e-011
+899 downstream cap is 1.70521e-011
+900 downstream cap is 2.73514e-011
+901 downstream cap is 6.04823e-011
+902 downstream cap is 3.14202e-011
+903 downstream cap is 1.41622e-010
+904 downstream cap is 1.00249e-010
+905 downstream cap is 2.62128e-013
+906 downstream cap is 3.86578e-013
+907 downstream cap is 4.58135e-014
+908 downstream cap is 2.33024e-013
+909 downstream cap is 2.04896e-013
+910 downstream cap is 1.11945e-013
+911 downstream cap is 2.35481e-013
+912 downstream cap is 2.34092e-014
+913 downstream cap is 2.02945e-013
+914 downstream cap is 3.30387e-013
+915 downstream cap is 5.3231e-013
+916 downstream cap is 1.15118e-013
+917 downstream cap is 5.00514e-014
+918 downstream cap is 2.59294e-013
+919 downstream cap is 3.93765e-013
+920 downstream cap is 6.90998e-013
+921 downstream cap is 1.21886e-012
+922 downstream cap is 1.29305e-012
+923 downstream cap is 1.18742e-012
+924 downstream cap is 1.97952e-012
+925 downstream cap is 8.15926e-013
+926 downstream cap is 1.17832e-012
+927 downstream cap is 1.49701e-012
+928 downstream cap is 5.18673e-012
+929 downstream cap is 3.62981e-012
+930 downstream cap is 1.7975e-012
+931 downstream cap is 1.87703e-012
+932 downstream cap is 1.46619e-012
+933 downstream cap is 3.06227e-012
+934 downstream cap is 7.1322e-012
+935 downstream cap is 3.56096e-012
+936 downstream cap is 5.81901e-012
+937 downstream cap is 8.70397e-012
+938 downstream cap is 1.12399e-011
+939 downstream cap is 3.63168e-011
+940 downstream cap is 2.69886e-011
+941 downstream cap is 5.87726e-011
+942 downstream cap is 1.41342e-010
+943 downstream cap is 2.92538e-013
+944 downstream cap is 4.26846e-013
+945 downstream cap is 4.16696e-013
+946 downstream cap is 4.03315e-013
+947 downstream cap is 9.43651e-014
+948 downstream cap is 6.74222e-013
+949 downstream cap is 1.67358e-012
+950 downstream cap is 1.73071e-012
+951 downstream cap is 3.22211e-012
+952 downstream cap is 1.86543e-012
+953 downstream cap is 1.34497e-012
+954 downstream cap is 5.86062e-012
+955 downstream cap is 3.82066e-012
+956 downstream cap is 4.42699e-012
+957 downstream cap is 6.32347e-012
+958 downstream cap is 2.08234e-011
+959 downstream cap is 1.35909e-011
+960 downstream cap is 3.03604e-011
+961 downstream cap is 2.77955e-011
+962 downstream cap is 2.79749e-011
+963 downstream cap is 6.06617e-011
+964 downstream cap is 1.41898e-010
+The minimum delay from the source to a sink is from source to node number # 185 at 4.10278e-008 time units
+
+The maximum delay from the source to a sink is from source to node number # 43 at 4.52731e-008 time units
+
+ The max skew is 4.24526e-009
+
+0 cap is 3.75174e-014
+1 cap is 1.50703e-013
+2 cap is 5.1862e-014
+3 cap is 2.07798e-014
+4 cap is 5.9866e-014
+5 cap is 1.68454e-013
+6 cap is 1.19064e-014
+7 cap is 1.25204e-013
+8 cap is 5.9866e-014
+9 cap is 3.56439e-013
+10 cap is 1.00061e-013
+11 cap is 3.91101e-013
+12 cap is 2.65934e-013
+13 cap is 1.38305e-013
+14 cap is 6.75388e-014
+15 cap is 2.63912e-013
+16 cap is 9.818e-015
+17 cap is 1.18967e-013
+18 cap is 2.73063e-014
+19 cap is 2.03254e-013
+20 cap is 1.23272e-013
+21 cap is 6.6352e-014
+22 cap is 3.52385e-014
+23 cap is 1.67202e-013
+24 cap is 3.42e-016
+25 cap is 1.17276e-013
+26 cap is 9.0778e-014
+27 cap is 8.72176e-014
+28 cap is 1.06363e-013
+29 cap is 1.69572e-014
+30 cap is 2.03266e-013
+31 cap is 3.80887e-014
+32 cap is 5.959e-014
+33 cap is 1.65248e-014
+34 cap is 6.62784e-014
+35 cap is 1.3728e-014
+36 cap is 6.19044e-015
+37 cap is 1.56558e-013
+38 cap is 1.87801e-013
+39 cap is 4.7442e-015
+40 cap is 8.76132e-014
+41 cap is 1.34867e-013
+42 cap is 1.59519e-013
+43 cap is 2.31878e-013
+44 cap is 1.21881e-013
+45 cap is 1.72925e-013
+46 cap is 2.51268e-014
+47 cap is 4.44468e-014
+48 cap is 1.4004e-014
+49 cap is 6.85232e-014
+50 cap is 7.6012e-014
+51 cap is 1.05117e-014
+52 cap is 2.624e-014
+53 cap is 2.25876e-014
+54 cap is 4.13832e-014
+55 cap is 3.0058e-014
+56 cap is 1.95631e-014
+57 cap is 7.2884e-014
+58 cap is 4.91195e-014
+59 cap is 8.13765e-014
+60 cap is 3.291e-014
+61 cap is 6.45304e-014
+62 cap is 1.446e-015
+63 cap is 3.51465e-014
+64 cap is 5.48014e-014
+65 cap is 2.03147e-013
+66 cap is 1.18532e-013
+67 cap is 2.00999e-013
+68 cap is 5.92974e-014
+69 cap is 1.2721e-013
+70 cap is 7.89928e-014
+71 cap is 2.3066e-014
+72 cap is 2.3066e-014
+73 cap is 2.5826e-014
+74 cap is 2.35131e-013
+75 cap is 2.02687e-013
+76 cap is 4.20557e-014
+77 cap is 3.04904e-014
+78 cap is 6.25763e-014
+79 cap is 3.04444e-014
+80 cap is 1.34414e-013
+81 cap is 7.1527e-014
+82 cap is 6.83628e-015
+83 cap is 1.23124e-013
+84 cap is 2.84811e-014
+85 cap is 1.61697e-014
+86 cap is 2.22012e-014
+87 cap is 1.74406e-013
+88 cap is 1.3728e-014
+89 cap is 3.42e-016
+90 cap is 1.865e-014
+91 cap is 1.60358e-013
+92 cap is 5.24517e-014
+93 cap is 1.51071e-014
+94 cap is 6.46644e-015
+95 cap is 1.97647e-013
+96 cap is 8.47756e-015
+97 cap is 6.8928e-014
+98 cap is 1.87742e-014
+99 cap is 1.13215e-013
+100 cap is 4.7258e-015
+101 cap is 1.8977e-013
+102 cap is 7.69679e-014
+103 cap is 6.88875e-014
+104 cap is 8.50335e-014
+105 cap is 5.22852e-014
+106 cap is 8.949e-014
+107 cap is 7.52904e-015
+108 cap is 1.0738e-014
+109 cap is 6.7134e-014
+110 cap is 3.02626e-013
+111 cap is 6.2442e-014
+112 cap is 2.29532e-013
+113 cap is 1.56421e-013
+114 cap is 1.62225e-013
+115 cap is 6.3638e-014
+116 cap is 2.70151e-014
+117 cap is 4.21707e-013
+118 cap is 1.08122e-013
+119 cap is 7.5644e-014
+120 cap is 1.0416e-014
+121 cap is 8.7834e-014
+122 cap is 2.9534e-013
+123 cap is 3.55016e-014
+124 cap is 1.17642e-013
+125 cap is 3.0414e-014
+126 cap is 1.34138e-013
+127 cap is 2.8356e-014
+128 cap is 1.15729e-014
+129 cap is 2.8356e-014
+130 cap is 1.0416e-014
+131 cap is 1.45496e-014
+132 cap is 1.4004e-014
+133 cap is 1.11938e-013
+134 cap is 1.39341e-014
+135 cap is 1.84405e-013
+136 cap is 8.59563e-014
+137 cap is 2.8126e-014
+138 cap is 1.15894e-013
+139 cap is 1.73169e-014
+140 cap is 2.43862e-014
+141 cap is 8.54236e-014
+142 cap is 2.28415e-014
+143 cap is 9.27152e-015
+144 cap is 3.98468e-014
+145 cap is 1.23366e-013
+146 cap is 1.13489e-014
+147 cap is 4.09112e-014
+148 cap is 1.5987e-013
+149 cap is 2.40609e-013
+150 cap is 8.898e-015
+151 cap is 9.53832e-015
+152 cap is 5.6646e-014
+153 cap is 1.1152e-014
+154 cap is 3.14899e-013
+155 cap is 1.45532e-013
+156 cap is 2.39027e-013
+157 cap is 1.47211e-013
+158 cap is 2.53986e-013
+159 cap is 2.2254e-013
+160 cap is 5.1482e-014
+161 cap is 4.5422e-014
+162 cap is 2.5774e-013
+163 cap is 9.179e-014
+164 cap is 1.51047e-013
+165 cap is 7.09603e-014
+166 cap is 5.89837e-014
+167 cap is 6.59656e-014
+168 cap is 6.57227e-014
+169 cap is 2.969e-014
+170 cap is 8.69508e-014
+171 cap is 1.52998e-013
+172 cap is 9.7908e-014
+173 cap is 1.42984e-014
+174 cap is 1.4326e-014
+175 cap is 5.678e-015
+176 cap is 1.59824e-013
+177 cap is 7.57268e-014
+178 cap is 1.04751e-013
+179 cap is 1.46308e-013
+180 cap is 2.75547e-014
+181 cap is 4.25304e-014
+182 cap is 1.56438e-013
+183 cap is 1.10122e-014
+184 cap is 8.94e-016
+185 cap is 4.23915e-014
+186 cap is 3.36791e-014
+187 cap is 3.52808e-014
+188 cap is 4.56051e-014
+189 cap is 1.87061e-013
+190 cap is 2.94508e-014
+191 cap is 2.20687e-013
+192 cap is 6.6973e-014
+193 cap is 6.20482e-014
+194 cap is 1.74588e-013
+195 cap is 2.32328e-013
+196 cap is 2.1433e-014
+197 cap is 2.04164e-014
+198 cap is 2.71144e-013
+199 cap is 2.07986e-013
+200 cap is 9.84876e-014
+201 cap is 2.10751e-014
+202 cap is 7.7714e-014
+203 cap is 3.1438e-014
+204 cap is 2.647e-014
+205 cap is 2.647e-014
+206 cap is 4.02369e-014
+207 cap is 6.81874e-014
+208 cap is 1.446e-015
+209 cap is 1.446e-015
+210 cap is 6.38364e-015
+211 cap is 9.86146e-014
+212 cap is 3.2726e-014
+213 cap is 6.82592e-014
+214 cap is 8.4706e-014
+215 cap is 4.52242e-014
+216 cap is 3.2726e-014
+217 cap is 1.33245e-013
+218 cap is 5.84722e-014
+219 cap is 2.94296e-014
+220 cap is 4.70725e-014
+221 cap is 6.30786e-014
+222 cap is 1.13953e-013
+223 cap is 2.59447e-014
+224 cap is 6.80669e-014
+225 cap is 8.26958e-014
+226 cap is 2.22844e-013
+227 cap is 6.34246e-014
+228 cap is 2.99942e-013
+229 cap is 5.1632e-014
+230 cap is 1.0232e-014
+231 cap is 5.3656e-014
+232 cap is 1.56843e-013
+233 cap is 1.76113e-014
+234 cap is 7.82344e-015
+235 cap is 7.17944e-015
+236 cap is 1.003e-013
+237 cap is 7.9922e-014
+238 cap is 7.54692e-014
+239 cap is 9.21448e-015
+240 cap is 9.84738e-014
+241 cap is 1.65609e-013
+242 cap is 8.898e-015
+243 cap is 1.65798e-013
+244 cap is 1.34809e-013
+245 cap is 1.05393e-014
+246 cap is 2.51314e-014
+247 cap is 4.76944e-014
+248 cap is 1.55263e-013
+249 cap is 1.00951e-013
+250 cap is 1.17e-015
+251 cap is 3.006e-013
+252 cap is 6.695e-014
+253 cap is 9.3998e-014
+254 cap is 4.67284e-014
+255 cap is 2.42015e-013
+256 cap is 3.10413e-013
+257 cap is 2.97379e-013
+258 cap is 1.0094e-014
+259 cap is 1.25407e-013
+260 cap is 7.83212e-014
+261 cap is 2.5501e-013
+262 cap is 1.30115e-013
+263 cap is 3.04168e-014
+264 cap is 1.16142e-013
+265 cap is 1.73127e-013
+266 cap is 8.48584e-015
+267 cap is 1.62693e-013
+268 cap is 7.37858e-014
+269 cap is 1.53293e-013
+270 cap is 5.02421e-014
+271 cap is 1.26221e-013
+272 cap is 4.49733e-014
+273 cap is 4.45556e-014
+274 cap is 1.0329e-013
+275 cap is 6.15443e-014
+276 cap is 6.0007e-014
+277 cap is 1.11076e-013
+278 cap is 8.34716e-014
+279 cap is 5.06313e-014
+280 cap is 3.5674e-013
+281 cap is 1.25754e-013
+282 cap is 9.8037e-014
+283 cap is 1.21636e-013
+284 cap is 1.63488e-013
+285 cap is 1.6924e-013
+286 cap is 8.65646e-014
+287 cap is 3.61948e-013
+288 cap is 5.8604e-014
+289 cap is 2.30294e-013
+290 cap is 5.20021e-014
+291 cap is 1.24181e-013
+292 cap is 1.93512e-013
+293 cap is 3.15407e-013
+294 cap is 6.73192e-014
+295 cap is 1.92694e-013
+296 cap is 1.57219e-013
+297 cap is 8.77662e-014
+298 cap is 1.22211e-013
+299 cap is 2.25105e-013
+300 cap is 1.13532e-013
+301 cap is 9.37768e-013
+302 cap is 1.3474e-013
+303 cap is 7.10608e-015
+304 cap is 3.13884e-013
+305 cap is 4.05483e-013
+306 cap is 1.12642e-013
+307 cap is 1.72415e-013
+308 cap is 1.39574e-013
+309 cap is 1.62375e-013
+310 cap is 1.79326e-013
+311 cap is 2.27148e-013
+312 cap is 2.31785e-013
+313 cap is 2.21428e-013
+314 cap is 3.32506e-013
+315 cap is 5.32413e-014
+316 cap is 2.18298e-013
+317 cap is 2.92948e-013
+318 cap is 1.52752e-013
+319 cap is 1.9294e-013
+320 cap is 2.98064e-013
+321 cap is 2.00313e-013
+322 cap is 8.7914e-013
+323 cap is 3.08528e-013
+324 cap is 2.56939e-013
+325 cap is 7.75698e-014
+326 cap is 3.5324e-013
+327 cap is 2.12435e-013
+328 cap is 2.67662e-013
+329 cap is 8.24486e-014
+330 cap is 2.21299e-013
+331 cap is 3.76968e-013
+332 cap is 4.11442e-013
+333 cap is 2.82377e-013
+334 cap is 2.23159e-013
+335 cap is 2.39973e-013
+336 cap is 2.4334e-013
+337 cap is 3.05794e-013
+338 cap is 1.42393e-013
+339 cap is 2.87656e-013
+340 cap is 2.31661e-013
+341 cap is 2.74059e-013
+342 cap is 3.06038e-013
+343 cap is 1.33137e-013
+344 cap is 4.28674e-013
+345 cap is 6.17745e-013
+346 cap is 3.88164e-013
+347 cap is 5.19936e-013
+348 cap is 2.5451e-013
+349 cap is 4.16324e-013
+350 cap is 1.04714e-013
+351 cap is 4.83267e-013
+352 cap is 4.0699e-013
+353 cap is 4.8498e-013
+354 cap is 3.33371e-013
+355 cap is 5.31635e-013
+356 cap is 2.97005e-013
+357 cap is 5.48403e-014
+358 cap is 7.34611e-014
+359 cap is 4.55814e-014
+360 cap is 2.8629e-013
+361 cap is 3.03491e-013
+362 cap is 9.3725e-013
+363 cap is 9.44788e-013
+364 cap is 4.86545e-013
+365 cap is 3.40511e-013
+366 cap is 5.94532e-013
+367 cap is 5.29786e-013
+368 cap is 6.53333e-013
+369 cap is 6.17187e-013
+370 cap is 6.23797e-014
+371 cap is 5.09892e-013
+372 cap is 1.6725e-013
+373 cap is 2.61597e-013
+374 cap is 2.93256e-013
+375 cap is 5.27403e-013
+376 cap is 5.09628e-013
+377 cap is 4.17375e-013
+378 cap is 3.5911e-013
+379 cap is 1.51563e-013
+380 cap is 2.26839e-013
+381 cap is 2.95442e-013
+382 cap is 2.69849e-013
+383 cap is 2.33156e-013
+384 cap is 5.04108e-013
+385 cap is 1.19569e-013
+386 cap is 9.47122e-014
+387 cap is 2.74169e-013
+388 cap is 4.23356e-013
+389 cap is 1.22009e-013
+390 cap is 3.46658e-013
+391 cap is 2.49118e-013
+392 cap is 4.20032e-013
+393 cap is 2.0863e-013
+394 cap is 2.7761e-013
+395 cap is 2.40582e-013
+396 cap is 1.8911e-013
+397 cap is 1.12647e-013
+398 cap is 2.19297e-013
+399 cap is 2.2626e-013
+400 cap is 2.03532e-013
+401 cap is 8.74184e-014
+402 cap is 3.59499e-013
+403 cap is 1.30168e-013
+404 cap is 1.68223e-013
+405 cap is 1.68344e-013
+406 cap is 2.07239e-013
+407 cap is 1.20692e-013
+408 cap is 5.82653e-013
+409 cap is 6.11375e-013
+410 cap is 7.11514e-013
+411 cap is 3.28985e-013
+412 cap is 1.91448e-013
+413 cap is 4.69597e-013
+414 cap is 1.88663e-013
+415 cap is 3.0747e-013
+416 cap is 1.96719e-013
+417 cap is 3.50507e-013
+418 cap is 4.32198e-013
+419 cap is 4.05588e-013
+420 cap is 5.24062e-013
+421 cap is 3.88013e-013
+422 cap is 7.88506e-013
+423 cap is 4.2031e-013
+424 cap is 2.65248e-013
+425 cap is 1.71126e-013
+426 cap is 1.19244e-013
+427 cap is 6.06541e-013
+428 cap is 5.05711e-013
+429 cap is 5.43197e-013
+430 cap is 6.71609e-013
+431 cap is 2.97999e-013
+432 cap is 3.06611e-013
+433 cap is 8.02947e-013
+434 cap is 4.66951e-013
+435 cap is 4.65419e-013
+436 cap is 6.89908e-013
+437 cap is 7.08843e-013
+438 cap is 1.11999e-012
+439 cap is 3.74164e-013
+440 cap is 4.73298e-013
+441 cap is 8.69815e-013
+442 cap is 5.44566e-013
+443 cap is 1.4696e-012
+444 cap is 2.9482e-013
+445 cap is 3.4468e-013
+446 cap is 5.97524e-013
+447 cap is 1.37707e-013
+448 cap is 5.52316e-013
+449 cap is 5.55237e-013
+450 cap is 7.15042e-013
+451 cap is 3.38557e-013
+452 cap is 2.30799e-013
+453 cap is 2.42375e-013
+454 cap is 4.86172e-013
+455 cap is 3.31583e-013
+456 cap is 1.97302e-013
+457 cap is 2.51312e-013
+458 cap is 2.16871e-013
+459 cap is 5.73946e-013
+460 cap is 1.16705e-013
+461 cap is 3.20704e-013
+462 cap is 2.91318e-013
+463 cap is 5.83224e-013
+464 cap is 4.72373e-013
+465 cap is 5.92206e-013
+466 cap is 4.43183e-013
+467 cap is 2.99672e-013
+468 cap is 2.05595e-013
+469 cap is 5.08956e-013
+470 cap is 9.0832e-013
+471 cap is 6.10953e-013
+472 cap is 5.47078e-013
+473 cap is 1.34372e-012
+474 cap is 1.53843e-012
+475 cap is 4.71552e-013
+476 cap is 2.84246e-013
+477 cap is 9.52137e-013
+478 cap is 6.94867e-013
+479 cap is 4.91581e-013
+480 cap is 4.38947e-013
+481 cap is 7.92288e-013
+482 cap is 7.6425e-013
+483 cap is 1.6505e-013
+484 cap is 6.93157e-013
+485 cap is 4.14205e-013
+486 cap is 6.5313e-013
+487 cap is 2.77054e-013
+488 cap is 9.24956e-013
+489 cap is 1.97183e-013
+490 cap is 5.76032e-013
+491 cap is 5.04404e-013
+492 cap is 6.20961e-013
+493 cap is 8.1903e-013
+494 cap is 8.20726e-013
+495 cap is 7.76507e-013
+496 cap is 4.85475e-013
+497 cap is 3.58013e-013
+498 cap is 5.74903e-013
+499 cap is 7.18211e-013
+500 cap is 1.17985e-012
+501 cap is 6.17059e-013
+502 cap is 8.57061e-013
+503 cap is 7.51634e-013
+504 cap is 2.38619e-013
+505 cap is 6.41565e-013
+506 cap is 9.01088e-013
+507 cap is 4.26617e-013
+508 cap is 1.71208e-013
+509 cap is 2.22251e-013
+510 cap is 8.27565e-013
+511 cap is 8.78131e-013
+512 cap is 9.25393e-013
+513 cap is 4.87845e-013
+514 cap is 1.21349e-012
+515 cap is 2.94569e-013
+516 cap is 7.61075e-013
+517 cap is 6.32325e-013
+518 cap is 1.71236e-012
+519 cap is 1.43585e-012
+520 cap is 1.8893e-012
+521 cap is 8.49834e-013
+522 cap is 1.55928e-012
+523 cap is 6.13071e-013
+524 cap is 2.05858e-012
+525 cap is 1.84295e-012
+526 cap is 1.60918e-012
+527 cap is 1.11349e-012
+528 cap is 9.36053e-013
+529 cap is 2.12038e-012
+530 cap is 1.47902e-012
+531 cap is 2.05609e-012
+532 cap is 9.03902e-013
+533 cap is 4.83534e-014
+534 cap is 2.08597e-013
+535 cap is 7.1956e-014
+536 cap is 1.40925e-013
+537 cap is 7.0472e-014
+538 cap is 2.73865e-013
+539 cap is 7.0472e-014
+540 cap is 3.57845e-013
+541 cap is 3.92507e-013
+542 cap is 2.68703e-013
+543 cap is 1.80725e-013
+544 cap is 3.00673e-013
+545 cap is 3.718e-014
+546 cap is 4.12243e-014
+547 cap is 2.0439e-013
+548 cap is 1.31081e-013
+549 cap is 5.18245e-014
+550 cap is 4.3804e-014
+551 cap is 1.36254e-013
+552 cap is 1.50426e-013
+553 cap is 9.41436e-014
+554 cap is 7.19072e-014
+555 cap is 6.35987e-014
+556 cap is 9.37682e-014
+557 cap is 2.80287e-014
+558 cap is 1.18809e-014
+559 cap is 2.23677e-013
+560 cap is 1.9999e-013
+561 cap is 2.33618e-013
+562 cap is 2.95099e-013
+563 cap is 2.11479e-013
+564 cap is 2.65989e-013
+565 cap is 1.85386e-013
+566 cap is 3.76562e-013
+567 cap is 1.24034e-013
+568 cap is 4.44728e-014
+569 cap is 8.97074e-014
+570 cap is 9.6278e-014
+571 cap is 3.50575e-014
+572 cap is 4.36917e-014
+573 cap is 2.35258e-014
+574 cap is 8.35802e-014
+575 cap is 9.03918e-014
+576 cap is 4.65161e-014
+577 cap is 4.47479e-014
+578 cap is 9.16605e-014
+579 cap is 1.24992e-013
+580 cap is 1.3981e-013
+581 cap is 2.13016e-013
+582 cap is 1.17321e-013
+583 cap is 2.7915e-013
+584 cap is 9.58005e-014
+585 cap is 1.41191e-013
+586 cap is 7.29634e-014
+587 cap is 3.22251e-013
+588 cap is 1.3767e-013
+589 cap is 1.34957e-013
+590 cap is 5.46425e-014
+591 cap is 7.9419e-014
+592 cap is 8.63503e-014
+593 cap is 1.59122e-013
+594 cap is 4.09271e-014
+595 cap is 3.22074e-014
+596 cap is 3.02073e-014
+597 cap is 2.8968e-014
+598 cap is 9.4173e-014
+599 cap is 5.39718e-014
+600 cap is 2.88218e-014
+601 cap is 6.94545e-014
+602 cap is 1.98179e-013
+603 cap is 7.35135e-014
+604 cap is 1.6186e-013
+605 cap is 1.1653e-013
+606 cap is 1.20432e-013
+607 cap is 1.37477e-013
+608 cap is 1.06766e-013
+609 cap is 2.10824e-013
+610 cap is 1.42542e-013
+611 cap is 1.63028e-013
+612 cap is 6.74342e-014
+613 cap is 2.58596e-013
+614 cap is 1.74157e-013
+615 cap is 1.37855e-013
+616 cap is 1.69102e-013
+617 cap is 5.69393e-013
+618 cap is 1.31106e-013
+619 cap is 1.45364e-013
+620 cap is 1.20655e-013
+621 cap is 2.00399e-013
+622 cap is 9.87454e-014
+623 cap is 1.14311e-013
+624 cap is 1.56314e-013
+625 cap is 7.45651e-014
+626 cap is 1.55568e-013
+627 cap is 2.55631e-014
+628 cap is 7.54952e-014
+629 cap is 1.239e-013
+630 cap is 1.97035e-013
+631 cap is 8.92722e-014
+632 cap is 3.5087e-014
+633 cap is 1.53543e-013
+634 cap is 4.60662e-014
+635 cap is 1.26864e-013
+636 cap is 2.90315e-014
+637 cap is 2.88015e-014
+638 cap is 2.73671e-013
+639 cap is 2.83221e-013
+640 cap is 4.45252e-014
+641 cap is 2.30353e-013
+642 cap is 9.96452e-015
+643 cap is 1.85766e-014
+644 cap is 1.30325e-013
+645 cap is 5.10968e-014
+646 cap is 1.97954e-013
+647 cap is 4.6492e-013
+648 cap is 2.80397e-013
+649 cap is 1.12964e-013
+650 cap is 5.09708e-014
+651 cap is 1.0429e-013
+652 cap is 9.23137e-014
+653 cap is 1.10185e-013
+654 cap is 3.15753e-014
+655 cap is 3.06949e-014
+656 cap is 2.53947e-013
+657 cap is 4.04432e-014
+658 cap is 3.67555e-013
+659 cap is 1.75223e-013
+660 cap is 6.00033e-014
+661 cap is 2.40848e-013
+662 cap is 2.09581e-013
+663 cap is 2.14583e-013
+664 cap is 1.74285e-014
+665 cap is 4.34295e-014
+666 cap is 8.23731e-014
+667 cap is 5.12532e-014
+668 cap is 1.6934e-013
+669 cap is 2.25575e-013
+670 cap is 7.4865e-014
+671 cap is 1.22426e-013
+672 cap is 2.67534e-013
+673 cap is 2.73294e-013
+674 cap is 4.1055e-014
+675 cap is 1.0528e-013
+676 cap is 2.6639e-013
+677 cap is 1.35484e-013
+678 cap is 6.50302e-014
+679 cap is 9.04792e-014
+680 cap is 6.96937e-014
+681 cap is 7.16349e-014
+682 cap is 8.53171e-014
+683 cap is 5.61338e-014
+684 cap is 2.75001e-013
+685 cap is 1.03749e-013
+686 cap is 8.21827e-014
+687 cap is 3.94091e-014
+688 cap is 1.10471e-013
+689 cap is 8.50687e-014
+690 cap is 2.54481e-013
+691 cap is 8.97718e-014
+692 cap is 1.16491e-013
+693 cap is 6.97673e-014
+694 cap is 1.2086e-013
+695 cap is 2.93036e-013
+696 cap is 4.81105e-014
+697 cap is 7.39146e-014
+698 cap is 1.24007e-013
+699 cap is 4.80774e-014
+700 cap is 3.66072e-013
+701 cap is 8.99116e-014
+702 cap is 1.46656e-013
+703 cap is 3.42297e-013
+704 cap is 9.91788e-014
+705 cap is 3.47226e-014
+706 cap is 2.13524e-013
+707 cap is 1.41054e-014
+708 cap is 1.01064e-013
+709 cap is 1.54045e-014
+710 cap is 1.11534e-013
+711 cap is 1.66141e-013
+712 cap is 1.84164e-013
+713 cap is 1.83206e-013
+714 cap is 4.49733e-014
+715 cap is 1.66697e-013
+716 cap is 1.30969e-013
+717 cap is 3.60226e-014
+718 cap is 3.44251e-013
+719 cap is 1.14225e-013
+720 cap is 2.57949e-013
+721 cap is 2.59521e-013
+722 cap is 4.72865e-013
+723 cap is 4.59831e-013
+724 cap is 1.12092e-013
+725 cap is 2.62781e-013
+726 cap is 2.67585e-013
+727 cap is 1.17318e-014
+728 cap is 9.21527e-014
+729 cap is 2.14305e-013
+730 cap is 5.81385e-014
+731 cap is 9.82477e-014
+732 cap is 1.00449e-013
+733 cap is 1.17613e-013
+734 cap is 1.11482e-013
+735 cap is 4.78271e-014
+736 cap is 2.83756e-014
+737 cap is 2.44499e-014
+738 cap is 2.96914e-013
+739 cap is 1.29473e-013
+740 cap is 6.90377e-014
+741 cap is 7.79056e-014
+742 cap is 3.33946e-013
+743 cap is 1.43315e-013
+744 cap is 5.4637e-014
+745 cap is 3.37501e-013
+746 cap is 1.70988e-013
+747 cap is 8.18699e-014
+748 cap is 7.9178e-014
+749 cap is 1.22907e-013
+750 cap is 3.20948e-013
+751 cap is 4.1837e-014
+752 cap is 1.94703e-013
+753 cap is 1.13014e-013
+754 cap is 1.69343e-013
+755 cap is 2.17665e-013
+756 cap is 2.43578e-013
+757 cap is 1.29581e-013
+758 cap is 4.17128e-014
+759 cap is 2.03926e-013
+760 cap is 3.33853e-013
+761 cap is 1.11215e-013
+762 cap is 1.15728e-013
+763 cap is 3.15622e-013
+764 cap is 1.63267e-013
+765 cap is 1.07438e-013
+766 cap is 2.52902e-013
+767 cap is 2.17538e-013
+768 cap is 2.45623e-013
+769 cap is 3.42856e-013
+770 cap is 8.90385e-014
+771 cap is 2.24347e-013
+772 cap is 1.25848e-013
+773 cap is 2.41371e-014
+774 cap is 1.9831e-013
+775 cap is 3.0925e-013
+776 cap is 8.94728e-014
+777 cap is 2.52479e-013
+778 cap is 1.34412e-013
+779 cap is 1.17134e-013
+780 cap is 2.56065e-013
+781 cap is 3.3281e-013
+782 cap is 1.19047e-013
+783 cap is 1.79089e-013
+784 cap is 2.82554e-013
+785 cap is 1.52144e-013
+786 cap is 2.67977e-013
+787 cap is 2.20819e-013
+788 cap is 2.31978e-013
+789 cap is 9.87454e-014
+790 cap is 3.18901e-013
+791 cap is 2.19863e-013
+792 cap is 1.9651e-013
+793 cap is 2.71334e-013
+794 cap is 2.6013e-013
+795 cap is 8.24968e-013
+796 cap is 3.55335e-013
+797 cap is 1.37339e-013
+798 cap is 3.57656e-013
+799 cap is 1.03594e-013
+800 cap is 2.58948e-013
+801 cap is 6.63612e-013
+802 cap is 2.55327e-013
+803 cap is 4.64111e-013
+804 cap is 1.19832e-013
+805 cap is 1.20302e-013
+806 cap is 1.53451e-013
+807 cap is 9.3828e-014
+808 cap is 3.27107e-013
+809 cap is 8.69087e-014
+810 cap is 3.99777e-014
+811 cap is 1.633e-013
+812 cap is 1.78677e-013
+813 cap is 4.02374e-013
+814 cap is 2.02866e-013
+815 cap is 6.22352e-014
+816 cap is 4.67231e-014
+817 cap is 1.34185e-013
+818 cap is 8.40935e-014
+819 cap is 2.01093e-013
+820 cap is 1.78962e-013
+821 cap is 1.30531e-013
+822 cap is 1.49418e-013
+823 cap is 9.23717e-014
+824 cap is 1.10679e-013
+825 cap is 4.62539e-013
+826 cap is 4.81709e-013
+827 cap is 1.39623e-013
+828 cap is 4.58493e-013
+829 cap is 3.10851e-013
+830 cap is 3.08535e-013
+831 cap is 2.317e-013
+832 cap is 1.51354e-013
+833 cap is 5.31846e-013
+834 cap is 1.36871e-013
+835 cap is 1.6376e-013
+836 cap is 2.48964e-013
+837 cap is 8.82317e-014
+838 cap is 8.79557e-014
+839 cap is 3.5151e-013
+840 cap is 2.14995e-013
+841 cap is 4.20957e-013
+842 cap is 1.24247e-013
+843 cap is 2.2637e-013
+844 cap is 4.75444e-013
+845 cap is 6.47042e-013
+846 cap is 8.60729e-014
+847 cap is 3.94374e-013
+848 cap is 9.34673e-013
+849 cap is 1.94482e-013
+850 cap is 9.6336e-014
+851 cap is 1.51198e-013
+852 cap is 3.50175e-013
+853 cap is 1.60573e-013
+854 cap is 2.52598e-013
+855 cap is 3.46217e-013
+856 cap is 8.92188e-014
+857 cap is 1.17221e-013
+858 cap is 9.42264e-015
+859 cap is 4.3436e-013
+860 cap is 1.70889e-013
+861 cap is 2.73531e-013
+862 cap is 2.18501e-013
+863 cap is 4.244e-013
+864 cap is 1.90398e-013
+865 cap is 3.5821e-013
+866 cap is 3.11402e-014
+867 cap is 4.26724e-013
+868 cap is 5.81585e-013
+869 cap is 2.08406e-013
+870 cap is 5.52992e-013
+871 cap is 3.50662e-013
+872 cap is 3.57932e-013
+873 cap is 5.43091e-013
+874 cap is 2.94534e-013
+875 cap is 9.89386e-014
+876 cap is 6.67691e-013
+877 cap is 2.94235e-013
+878 cap is 2.47064e-013
+879 cap is 4.45585e-013
+880 cap is 8.66953e-014
+881 cap is 2.53399e-013
+882 cap is 6.00387e-013
+883 cap is 3.87408e-013
+884 cap is 7.70209e-013
+885 cap is 6.67546e-013
+886 cap is 1.85187e-013
+887 cap is 2.76086e-013
+888 cap is 1.45796e-012
+889 cap is 2.6958e-013
+890 cap is 7.65549e-013
+891 cap is 9.61495e-013
+892 cap is 3.6659e-013
+893 cap is 8.60067e-013
+894 cap is 7.3003e-013
+895 cap is 2.9935e-013
+896 cap is 1.47015e-013
+897 cap is 6.39315e-013
+898 cap is 1.2021e-012
+899 cap is 4.07668e-013
+900 cap is 3.62849e-013
+901 cap is 1.70965e-012
+902 cap is 1.03047e-012
+903 cap is 2.79874e-013
+904 cap is 1.72441e-012
+905 cap is 1.95776e-013
+906 cap is 2.64697e-013
+907 cap is 2.62504e-014
+908 cap is 1.64096e-013
+909 cap is 1.77881e-013
+910 cap is 1.00372e-013
+911 cap is 1.23543e-013
+912 cap is 1.22572e-014
+913 cap is 1.05037e-013
+914 cap is 1.70563e-013
+915 cap is 3.45249e-013
+916 cap is 6.14624e-014
+917 cap is 2.492e-014
+918 cap is 3.0935e-014
+919 cap is 9.88678e-014
+920 cap is 2.98295e-013
+921 cap is 3.82586e-013
+922 cap is 3.12979e-013
+923 cap is 3.24751e-013
+924 cap is 5.86582e-013
+925 cap is 2.15349e-013
+926 cap is 3.65707e-013
+927 cap is 4.45794e-013
+928 cap is 4.05398e-013
+929 cap is 3.32044e-013
+930 cap is 6.01864e-014
+931 cap is 2.61979e-014
+932 cap is 1.64503e-013
+933 cap is 3.43001e-013
+934 cap is 7.6326e-013
+935 cap is 6.30043e-013
+936 cap is 3.94727e-013
+937 cap is 2.82037e-013
+938 cap is 4.67086e-013
+939 cap is 7.13862e-013
+940 cap is 1.19088e-012
+941 cap is 2.05208e-012
+942 cap is 2.89615e-013
+943 cap is 3.9008e-014
+944 cap is 8.05e-014
+945 cap is 1.77468e-013
+946 cap is 2.74155e-013
+947 cap is 5.71725e-014
+948 cap is 2.32096e-013
+949 cap is 5.8558e-013
+950 cap is 2.89587e-013
+951 cap is 8.36872e-013
+952 cap is 3.54895e-013
+953 cap is 1.80076e-013
+954 cap is 3.52374e-013
+955 cap is 6.7129e-013
+956 cap is 7.12258e-013
+957 cap is 2.57399e-013
+958 cap is 1.06821e-012
+959 cap is 3.31854e-013
+960 cap is 6.80653e-013
+961 cap is 1.26958e-012
+962 cap is 6.23504e-013
+963 cap is 1.79412e-013
+964 cap is 2.76293e-013
