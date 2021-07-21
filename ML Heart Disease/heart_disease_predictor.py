@@ -1,4 +1,3 @@
-# Adding needed comments
 from sklearn.utils import shuffle
 from io import BytesIO
 import streamlit as st
